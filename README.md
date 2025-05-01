@@ -1,6 +1,6 @@
 # proyecto-coursera
 
-Este es un proyecto de ejemplo para aprender a usar GitHub y Git.
+Este es un proyecto de ejemplo para aprender a usar GitHub y Git. Editado por danniiiielaaaa
 
 ## Instalación
 
